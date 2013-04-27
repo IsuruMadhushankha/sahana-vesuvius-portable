@@ -18,5 +18,5 @@ Options +ExecCGI
 
 #AuthName "Uniform Server - Admin Panel 2.0"
 #AuthType Basic
-#AuthUserFile C:/Users/Jayashan/Desktop/sahana-agasti-portable2/PortableApps/SahanaPortable2/htpasswd/home/admin/www/.htpasswd
+#AuthUserFile H:/to repo/sahana-agasti-portable2/PortableApps/SahanaPortable2/htpasswd/home/admin/www/.htpasswd
 #Require valid-user

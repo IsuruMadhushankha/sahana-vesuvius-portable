@@ -18,5 +18,5 @@ Options +ExecCGI +FollowSymLinks
 
 #AuthName "Uniform Server - Server Access"
 #AuthType Basic
-#AuthUserFile C:/Users/Jayashan/Desktop/sahana-agasti-portable2/PortableApps/SahanaPortable2/htpasswd/www/.htpasswd
+#AuthUserFile H:/to repo/sahana-agasti-portable2/PortableApps/SahanaPortable2/htpasswd/www/.htpasswd
 #Require valid-user

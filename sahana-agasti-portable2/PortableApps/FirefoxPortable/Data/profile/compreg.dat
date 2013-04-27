@@ -4,73 +4,65 @@ Generated File. Do not edit.
 Version,0,5
 
 [COMPONENTS]
-rel:nsDownloadManagerUI.js,1282691958000
-rel:nsBrowserContentHandler.js,1282691958000
-rel:nsAddonRepository.js,1282691958000
-abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-trace-service.js,1273144490000
-rel:nsContentDispatchChooser.js,1282691958000
-rel:nsBlocklistService.js,1282691958000
-abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-service.js,1273144490000
-abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\KavAntiBanner@Kaspersky.ru\components\ff6\abhelperxpcom6.dll,1314956628000
-rel:nsSearchSuggestions.js,1282691958000
-rel:brwsrcmp.dll,1282703486000
-rel:nsWebHandlerApp.js,1282691958000
-rel:nsExtensionManager.js,1282691958000
-rel:nsProxyAutoConfig.js,1282691958000
-rel:FeedWriter.js,1282691958000
-rel:nsUrlClassifierListManager.js,1282691958000
-rel:fuelApplication.js,1282691958000
-rel:WebContentConverter.js,1282691958000
-rel:nsMicrosummaryService.js,1282691958000
-abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-channel-listener.js,1273144490000
+rel:nsTryToClose.js,1282691958000
+abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-service.js,1273144490000
+rel:nsFormAutoComplete.js,1282691958000
 rel:nsUrlClassifierLib.js,1282691958000
-abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\linkfilter@kaspersky.ru\components\ff6\kavlinkfilter6.dll,1314956628000
-rel:nsSessionStore.js,1282691958000
-rel:storage-Legacy.js,1282691958000
-rel:nsUpdateServiceStub.js,1282691958000
+rel:nsProxyAutoConfig.js,1282691958000
+rel:nsSetDefaultBrowser.js,1282691958000
+rel:nsTaggingService.js,1282691958000
+abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-trace-service.js,1273144490000
+rel:nsUpdateTimerManager.js,1282691958000
+rel:nsContentPrefService.js,1282691958000
+rel:nsBrowserContentHandler.js,1282691958000
+rel:fuelApplication.js,1282691958000
+rel:nsSearchSuggestions.js,1282691958000
+rel:nsUpdateService.js,1282691958000
+rel:nsMicrosummaryService.js,1282691958000
+rel:nsLoginManagerPrompter.js,1282691958000
+rel:FeedWriter.js,1282691958000
+rel:storage-mozStorage.js,1282691958000
+rel:nsPlacesDBFlush.js,1282691958000
+rel:nsLoginInfo.js,1282691958000
+rel:nsBrowserGlue.js,1282691958000
+abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-channel-listener.js,1273144490000
+rel:brwsrcmp.dll,1282703486000
+rel:nsSessionStartup.js,1282691958000
+rel:nsDownloadManagerUI.js,1282691958000
+rel:nsExtensionManager.js,1282691958000
+rel:nsUrlClassifierListManager.js,1282691958000
 rel:nsLivemarkService.js,1282691958000
 rel:nsHandlerService.js,1282691958000
-rel:nsBrowserGlue.js,1282691958000
-rel:nsFormAutoComplete.js,1282691958000
-rel:nsContentPrefService.js,1282691958000
-abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\linkfilter@kaspersky.ru\components\kavlinkfilter.dll,1314956628000
-rel:nsSessionStartup.js,1282691958000
-rel:nsTryToClose.js,1282691958000
-rel:FeedProcessor.js,1282691958000
+rel:jsconsole-clhandler.js,1282691958000
+rel:NetworkGeolocationProvider.js,1282691958000
+rel:GPSDGeolocationProvider.js,1282691958000
+rel:nsUpdateServiceStub.js,1282691958000
+abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-http-observer.js,1273144490000
+rel:nsHelperAppDlg.js,1282691958000
+rel:txEXSLTRegExFunctions.js,1282691958000
+rel:nsDefaultCLH.js,1282691958000
+abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-annotations.js,1273144490000
+rel:browserdirprovider.dll,1282703486000
+rel:nsContentDispatchChooser.js,1282691958000
+rel:nsBlocklistService.js,1282691958000
+rel:nsSearchService.js,1282691958000
+rel:nsSessionStore.js,1282691958000
+rel:storage-Legacy.js,1282691958000
+rel:nsPlacesTransactionsService.js,1282691958000
+rel:nsWebHandlerApp.js,1282691958000
+rel:nsSafebrowsingApplication.js,1282691958000
+rel:nsINIProcessor.js,1282691958000
+rel:FeedConverter.js,1282691958000
 rel:nsPlacesAutoComplete.js,1282691958000
 rel:nsPrivateBrowsingService.js,1282691958000
-rel:nsDefaultCLH.js,1282691958000
-rel:nsPlacesTransactionsService.js,1282691958000
+rel:nsLoginManager.js,1282691958000
 rel:nsSidebar.js,1282691958000
 rel:nsURLFormatter.js,1282691958000
-rel:txEXSLTRegExFunctions.js,1282691958000
-abs:C:\Users\Jayashan\AppData\Roaming\IDM\idmmzcc5\components\idmmzcc.dll,1366827251522
-rel:nsPlacesDBFlush.js,1282691958000
-rel:NetworkGeolocationProvider.js,1282691958000
-rel:nsSafebrowsingApplication.js,1282691958000
-rel:nsSearchService.js,1282691958000
-abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\virtualKeyboard@kaspersky.ru\components\ff6\ffvkplugin6.dll,1314956628000
-rel:nsBadCertHandler.js,1282691958000
-abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-annotations.js,1273144490000
-rel:FeedConverter.js,1282691958000
-abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\virtualKeyboard@kaspersky.ru\components\ffvkplugin.dll,1314956628000
-rel:nsLoginManagerPrompter.js,1282691958000
-rel:storage-mozStorage.js,1282691958000
-abs:C:\Users\Jayashan\AppData\Roaming\IDM\idmmzcc5\components\idmhelper5.js,1366827251519
-rel:nsINIProcessor.js,1282691958000
-abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-http-observer.js,1273144490000
-rel:nsSetDefaultBrowser.js,1282691958000
-rel:browserdirprovider.dll,1282703486000
-rel:nsLoginInfo.js,1282691958000
-rel:jsconsole-clhandler.js,1282691958000
-rel:nsTaggingService.js,1282691958000
-rel:nsUpdateTimerManager.js,1282691958000
-rel:nsHelperAppDlg.js,1282691958000
-rel:nsLoginManager.js,1282691958000
-abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\KavAntiBanner@Kaspersky.ru\components\abhelperxpcom.dll,1314956628000
-rel:GPSDGeolocationProvider.js,1282691958000
-rel:nsUpdateService.js,1282691958000
+rel:WebContentConverter.js,1282691958000
+rel:FeedProcessor.js,1282691958000
 rel:pluginGlue.js,1282691958000
+rel:nsAddonRepository.js,1282691958000
+rel:nsBadCertHandler.js,1282691958000
 
 [CLASSIDS]
 {bfc310d2-38a0-11d3-8cd3-0060b0fc14a3},,application/x-mozilla-static,,nsLayoutModule
@@ -106,7 +98,6 @@ rel:pluginGlue.js,1282691958000
 {e43b0010-04ba-4da6-b523-1f92580bc150},,text/javascript,,rel:nsUpdateServiceStub.js
 {10f2f5f0-f103-4901-980f-ba11bd70d60d},,application/x-mozilla-static,,nsToolkitCompsModule
 {9416bfb4-1f93-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
-{fa9d1279-41d6-4bff-b419-77f3696d7081},,application/x-mozilla-native,,abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\linkfilter@kaspersky.ru\components\kavlinkfilter.dll
 {6b8bdffc-3394-417d-be83-a81b7c0f63bf},,application/x-mozilla-static,,docshell_provider
 {be9a53ae-c7e9-11d3-8cda-0060b0fc14a3},@mozilla.org/network/file-input-stream;1,application/x-mozilla-static,nsFileInputStream,necko
 {a0f827e1-8ab6-11d5-a14b-005004832142},,application/x-mozilla-static,,nsUConvModule
@@ -156,7 +147,6 @@ rel:pluginGlue.js,1282691958000
 {ba6151b7-1dfa-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
 {019718e3-cdb5-11d2-8d3c-000000000000},,application/x-mozilla-static,,nsLayoutModule
 {7b8556a4-ec79-11d2-8aac-00600811a836},,application/x-mozilla-static,,nsUConvModule
-{2ef610b1-8a13-8fb8-2c5f-ec1ee7a28b95},,application/x-mozilla-native,,abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\KavAntiBanner@Kaspersky.ru\components\ff6\abhelperxpcom6.dll
 {9fe5d975-09bd-44aa-a01a-66402ea28657},,application/x-mozilla-static,,mozSpellCheckerModule
 {ea06d4e2-2b3d-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUniversalCharDetModule
 {2d524fd8-ae74-11d3-abf7-0004aceefa51},,application/x-mozilla-static,,nsUConvModule
@@ -244,7 +234,7 @@ rel:pluginGlue.js,1282691958000
 {2bf64764-997f-450d-af96-3028d1a902b0},,application/x-mozilla-static,,nsI18nModule
 {fcacef23-2b40-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUniversalCharDetModule
 {0885d4f8-f7b8-4cda-902e-94ba38bc256e},,application/x-mozilla-static,,necko
-{a380e9c0-cb39-11da-a94d-0800200c9a66},,text/javascript,,abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-service.js
+{a380e9c0-cb39-11da-a94d-0800200c9a66},,text/javascript,,abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-service.js
 {7c02eadc-0076-4d03-998d-80d779c48589},,application/x-mozilla-static,,nsSecurityManagerModule
 {895db6c7-dbdf-40ea-9f64-b175033243dc},,application/x-mozilla-static,,satchel
 {e12752f0-ee9a-11d1-a82a-0040959a28c9},,application/x-mozilla-static,,nsGfxModule
@@ -366,7 +356,7 @@ rel:pluginGlue.js,1282691958000
 {0de2fbfa-6b7f-11d7-bbba-0003938a9d96},,application/x-mozilla-static,,nsLayoutModule
 {ba6151ac-1dfa-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
 {cb3ede1a-0fa5-4e27-aafe-0f7801e5a1f1},,application/x-mozilla-static,,nsImageLib2Module
-{5aaeb534-fa57-488d-9a73-20c258fc7bdb},,text/javascript,,abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-channel-listener.js
+{5aaeb534-fa57-488d-9a73-20c258fc7bdb},,text/javascript,,abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-channel-listener.js
 {c94f4a30-64d7-11d4-9960-00b0d02354a0},,application/x-mozilla-static,,NSS
 {56ad2981-8a87-11d2-918c-0080c8e44db5},,application/x-mozilla-static,,nsLayoutModule
 {822bcd11-6432-48be-9e9d-36f7804b7747},,application/x-mozilla-static,,nsCookieModule
@@ -403,7 +393,6 @@ rel:pluginGlue.js,1282691958000
 {6803cacc-1e3b-11d5-a145-005004832142},,application/x-mozilla-static,,nsUConvModule
 {9f6d5d40-90e7-11d3-af80-00a024ffc08c},,application/x-mozilla-static,,docshell_provider
 {8b5314bc-db01-11d2-96ce-0060b0fb9956},,application/x-mozilla-static,,nsWidgetModule
-{d099c555-a0b1-4294-94f4-455f42060b1e},,text/javascript,,abs:C:\Users\Jayashan\AppData\Roaming\IDM\idmmzcc5\components\idmhelper5.js
 {660d8ca7-f763-11d2-8aad-00600811a836},,application/x-mozilla-static,,nsUConvModule
 {7b8556a2-ec79-11d2-8aac-00600811a836},,application/x-mozilla-static,,nsUConvModule
 {ba6151a4-1dfa-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
@@ -415,7 +404,6 @@ rel:pluginGlue.js,1282691958000
 {c1751cfc-e8f1-4ade-b0bb-f74edfb8ef6a},,text/javascript,,rel:nsPlacesDBFlush.js
 {c6e8c44d-9f39-4af7-bcc0-76e38a8310f5},,text/javascript,,rel:nsBrowserGlue.js
 {0e4e7d00-f71a-439f-9178-1a71ff11b55f},,application/x-mozilla-static,,nsLayoutModule
-{cb9ef959-264b-4130-a136-fd575f169d47},,application/x-mozilla-native,,abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\linkfilter@kaspersky.ru\components\kavlinkfilter.dll
 {7b8556b2-ec79-11d2-8aac-00600811a836},,application/x-mozilla-static,,nsUConvModule
 {7c657d13-ec5e-11d2-8aac-00600811a836},,application/x-mozilla-static,,nsUConvModule
 {6394eea5-fc3d-11d2-b3b8-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
@@ -431,7 +419,6 @@ rel:pluginGlue.js,1282691958000
 {1f59b001-02c9-11d5-ae76-cc92f7db9e03},,application/x-mozilla-static,,embedcomponents
 {18a03189-067b-4978-b4f1-bafe35292ed6},,text/javascript,,rel:txEXSLTRegExFunctions.js
 {ba6151b1-1dfa-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
-{b508a71b-4776-4fa9-acb1-b9ec18a5bed6},,application/x-mozilla-native,,abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\linkfilter@kaspersky.ru\components\kavlinkfilter.dll
 {47433d1d-d9a7-4954-994f-f7a05cf87c2e},,application/x-mozilla-static,,nsUConvModule
 {cb9e0de8-3598-4ed7-857b-827f011ad5d8},,text/javascript,,rel:nsLoginManager.js
 {495eca46-0a5c-11d4-a135-005004832142},,application/x-mozilla-static,,nsUConvModule
@@ -470,7 +457,7 @@ rel:pluginGlue.js,1282691958000
 {9eb760f0-4380-11d2-b328-00805f8a3859},,application/x-mozilla-static,,nsLayoutModule
 {2e41ada0-62b7-4902-b9a6-e4542aa458ba},,application/x-mozilla-static,,embedcomponents
 {320706d2-2e81-42c6-89c3-8d83b17d3fb4},,application/x-mozilla-static,,necko
-{9589dc0d-9709-4578-883e-d393452b3611},,text/javascript,,abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-annotations.js
+{9589dc0d-9709-4578-883e-d393452b3611},,text/javascript,,abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-annotations.js
 {1f5c1721-7dc3-11d3-bf87-00105a1b0627},,application/x-mozilla-static,,nsLayoutModule
 {f1eac761-87e9-11d3-af80-00a024ffc08c},,application/x-mozilla-static,,Browser_Embedding_Module
 {40b22006-5dd5-42f2-bfe7-7dbf0757ab8b},,application/x-mozilla-static,,nsLayoutModule
@@ -485,7 +472,7 @@ rel:pluginGlue.js,1282691958000
 {d6008c40-4dad-11d2-b328-00805f8a3859},,application/x-mozilla-static,,nsLayoutModule
 {3a8a3a50-512c-11d4-9a54-000064657374},,application/x-mozilla-static,,nsLayoutModule
 {4f91ef2e-57ba-472e-ab7a-b4999e42d6c0},,text/javascript,,rel:FeedConverter.js
-{2d92593e-14d0-48ce-b260-a9881bbf9c8b},,text/javascript,,abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-http-observer.js
+{2d92593e-14d0-48ce-b260-a9881bbf9c8b},,text/javascript,,abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-http-observer.js
 {9f6a0d2e-1dd1-11b2-a5b8-951f13c846f7},,application/x-mozilla-static,,nsImageLib2Module
 {a4557478-ae16-11d5-ba4b-00108303b117},,application/x-mozilla-static,,NSS
 {adf42751-1cef-4ad2-aa8e-bcb849d8d31f},,application/x-mozilla-static,,nsI18nModule
@@ -589,7 +576,7 @@ rel:pluginGlue.js,1282691958000
 {1c31ed79-accd-4b94-b517-06e0c81999d5},,text/javascript,,rel:FeedConverter.js
 {2f977d4f-5485-11d4-87e2-0010a4e75ef2},,application/x-mozilla-static,,nsPrefModule
 {fe74cf80-aa2d-11db-abbd-0800200c9a66},,text/javascript,,rel:fuelApplication.js
-{d2ac51bc-1622-4d4d-85cb-f8e8b5805cb9},,text/javascript,,abs:I:\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-trace-service.js
+{d2ac51bc-1622-4d4d-85cb-f8e8b5805cb9},,text/javascript,,abs:H:\to repo\sahana-agasti-portable2\PortableApps\FirefoxPortable\Data\profile\extensions\firebug@software.joehewitt.com\components\firebug-trace-service.js
 {660d8ca9-f763-11d2-8aad-00600811a836},,application/x-mozilla-static,,nsUConvModule
 {6394eebc-fc3d-11d2-b3b8-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
 {7b8556ad-ec79-11d2-8aac-00600811a836},,application/x-mozilla-static,,nsUConvModule
@@ -688,7 +675,6 @@ rel:pluginGlue.js,1282691958000
 {a41661d5-1417-11d5-9882-00c04fa02f40},,application/x-mozilla-static,,docshell_provider
 {ba6151b8-1dfa-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
 {b57f97c2-0d70-11d3-8aae-00600811a836},,application/x-mozilla-static,,nsUConvModule
-{878e6fd4-eca5-428d-a1c1-4272ad7cd42a},,application/x-mozilla-native,,abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\virtualKeyboard@kaspersky.ru\components\ffvkplugin.dll
 {c87a37fc-8109-4ce2-a322-8cdec925379f},,application/x-mozilla-static,,nsLayoutModule
 {9416bfb2-1f93-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
 {e7ba1480-1dea-11d3-830f-00104bed045e},,application/x-mozilla-static,,nsLayoutModule
@@ -696,7 +682,6 @@ rel:pluginGlue.js,1282691958000
 {f68578eb-6ec2-4169-ae19-8c6243f0abe1},,text/javascript,,rel:nsHelperAppDlg.js
 {c2be6dc0-ef1e-4abd-86a2-4f864ddc57f6},,application/x-mozilla-static,,nsToolkitCompsModule
 {8b5314bb-db01-11d2-96ce-0060b0fb9956},,application/x-mozilla-static,,nsWidgetModule
-{dad15533-2c69-4107-b090-e7d8f9235029},,application/x-mozilla-native,,abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\linkfilter@kaspersky.ru\components\kavlinkfilter.dll
 {e7509b46-2eb2-410a-9d7c-c3ce73284d01},,application/x-mozilla-static,,nsLayoutModule
 {d673255d-1184-400a-b0b5-ee9d1295bd85},,application/x-mozilla-static,,nsUConvModule
 {6394eeb9-fc3d-11d2-b3b8-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
@@ -722,7 +707,6 @@ rel:pluginGlue.js,1282691958000
 {b7b2ccec-7912-4ea6-a548-b038447004bd},,application/x-mozilla-static,,nsToolkitCompsModule
 {06893e69-71d8-4b23-81eb-80314daf3e66},,application/x-mozilla-native,,rel:brwsrcmp.dll
 {d899a152-9412-46b2-b651-2e71c5c2f05f},,application/x-mozilla-static,,nsLayoutModule
-{2073896d-5e7a-4554-be61-0479d5a420ab},,application/x-mozilla-native,,abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\linkfilter@kaspersky.ru\components\kavlinkfilter.dll
 {217d014a-1dd2-11b2-999c-b0c4df79b324},,application/x-mozilla-static,,NSS
 {80d7e247-d4b8-45d7-bb59-6f1dd56f384c},,application/x-mozilla-static,,nsLayoutModule
 {ba6151b0-1dfa-11d3-b3bf-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
@@ -785,7 +769,6 @@ rel:pluginGlue.js,1282691958000
 {aa13e4a0-a5ac-11d2-9119-006008a6edf6},,application/x-mozilla-static,,nsI18nModule
 {7c657d17-ec5e-11d2-8aac-00600811a836},,application/x-mozilla-static,,nsUConvModule
 {6394eea9-fc3d-11d2-b3b8-00805f8a6670},,application/x-mozilla-static,,nsUConvModule
-{cd98a123-fa7b-4660-93d6-e21ad319ba43},,application/x-mozilla-native,,abs:C:\Program Files (x86)\Kaspersky Lab\Kaspersky Internet Security 2012\FFExt\linkfilter@kaspersky.ru\components\kavlinkfilter.dll
 {66354bc9-7ed1-4692-ae1d-8da97d6b205e},,text/javascript,,rel:nsBlocklistService.js
 {171e72db-0f8a-412a-8461-e4c927a3a2ac},,application/x-mozilla-static,,nsComposerModule
 {ef565d0a-ab9a-4a13-9160-0644cdfd859a},,application/x-mozilla-static,,nsCookieModule
@@ -827,7 +810,6 @@ rel:pluginGlue.js,1282691958000
 {c744ca3d-840b-460a-8d70-7ce63c51c958},,application/x-mozilla-static,,nsWindowDataSourceModule
 {be65e2b7-fe46-4e0f-88e0-4b385db4d68a},,application/x-mozilla-static,,NSS
 {dca9d7c3-7b6a-4490-ad6d-2699a8d683cd},,application/x-mozilla-static,,nsLayoutModule
-{cee92972-f247-4e95-94ad-14e98feddfd4},,application/x-mozilla-native,,abs:C:\Users\Jayashan\AppData\Roaming\IDM\idmmzcc5\components\idmmzcc.dll
 {dc26e0e0-ca94-11d1-a9a4-00805f8a7ac4},,application/x-mozilla-static,,nsPrefModule
 {b7f44954-11d1-11b2-8c2e-c2feab4186bc},,application/x-mozilla-static,,nsLayoutModule
 {9f1800ab-f428-4207-b40c-e832e77b01fc},,application/x-mozilla-static,,nsWidgetModule
@@ -915,7 +897,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/streamconv;1?from=application/http-index-format&to=text/html,{cf0f71fd-fafd-4e2b-9fdc-134d972e16e2}
 @mozilla.org/network/stream-transport-service;1,{0885d4f8-f7b8-4cda-902e-94ba38bc256e}
 @mozilla.org/js/xpc/RuntimeService;1,{b5e65b52-1dd1-11b2-ae8f-f0928ed88482}
-@Kaspersky.ru/KavCategorizedLink;1,{fa9d1279-41d6-4bff-b419-77f3696d7081}
 @mozilla.org/updates/update-service-stub;1,{e43b0010-04ba-4da6-b523-1f92580bc150}
 @mozilla.org/network/binary-detector;1,{a2027ec6-ba0d-4c72-805d-148233f5f33c}
 @mozilla.org/intl/charsetalias;1,{98d41c21-ccf3-11d2-b3b1-00805f8a6670}
@@ -949,7 +930,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/network/http-authenticator;1?scheme=ntlm,{bbef8185-c628-4cc1-b53e-e61e74c2451a}
 @mozilla.org/intl/unicode/encoder;1?charset=gb18030,{a59da932-4091-11d5-a145-005004832142}
 @mozilla.org/geolocation/provider;1,{77da64d3-7458-4920-9491-86cc9914f904}
-@Kaspersky.ru/KavLinkFilter;1,{2073896d-5e7a-4554-be61-0479d5a420ab}
 @mozilla.org/intl/charsetdetect;1?type=ko_parallel_state_machine,{ea06d4e1-2b3d-11d3-b3bf-00805f8a6670}
 @mozilla.org/inspector/search;1?type=cssvalue,{4d977f60-fbe7-4583-8cb7-f5ed882293ef}
 @mozilla.org/network/socket;2?type=socks,{8dbe7246-1dd2-11b2-9b8f-b9a849e4403a}
@@ -964,7 +944,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/security/nsscertcache;1,{3f429a14-dffe-417d-8cb8-fdf09bacd09e}
 @mozilla.org/libjar/zip-reader-cache;1,{1b117e16-0cad-11d4-986e-00c04fa0cf4a}
 @mozilla.org/geolocation/service;1,{0404d02a-01ca-aaab-4762-944b1bf2f7b5}
-@Kaspersky.ru/ABControllerXPCOM;1,{2ef610b1-8a13-8fb8-2c5f-ec1ee7a28b95}
 @mozilla.org/url-classifier/utils;1,{b7b2ccec-7912-4ea6-a548-b038447004bd}
 @mozilla.org/intl/unicode/encoder;1?charset=windows-936,{9416bfc1-1f93-11d3-b3bf-00805f8a6670}
 @mozilla.org/editor/txtsrvfilter;1,{171e72db-0f8a-412a-8461-e4c927a3a2ac}
@@ -985,7 +964,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/updates/update-checker;1,{898cdc9b-e43f-422f-9cc4-2f6291b415a3}
 @mozilla.org/network/input-stream-channel;1,{6ddb050c-0d04-11d4-986e-00c04fa0cf4a}
 @mozilla.org/microsummary/service;1,{460a9792-b154-4f26-a922-0f653e2c8f91}
-@Kaspersky.ru/KavLinkCollection;1,{cd98a123-fa7b-4660-93d6-e21ad319ba43}
 @mozilla.org/toolkit/app-startup;1,{7dd4d320-c84b-4624-8d45-7bb9b2356977}
 @mozilla.org/url-classifier/listmanager;1,{ca168834-cc00-48f9-b83c-fd018e58cae3}
 @mozilla.org/network/auth-module;1?name=ntlm,{a4e5888f-4fe4-4632-8e7e-745196ea7c70}
@@ -995,7 +973,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/spellchecker/personaldictionary;1,{7ef52eaf-b7e1-462b-87e2-5d1dbaca9048}
 @mozilla.org/security/hmac;1,{a496d0a2-dff7-4e23-bd65-1ca742fa178a}
 @mozilla.org/browser/global-history;1,{a772eee4-0464-405d-a329-a29dfda3791a}
-@Kaspersky.ru/KavLinkHighlightFilter;1,{b508a71b-4776-4fa9-acb1-b9ec18a5bed6}
 @mozilla.org/widget/idleservice;1,{6987230e-0098-4e78-bc5f-1493ee7519fa}
 @mozilla.org/xpinstall/installtrigger;1,{18c2f98d-b09f-11d2-bcde-00805f0e1353}
 @mozilla.org/layout/documentEncoder;1?type=application/xhtml+xml,{e7ba1480-1dea-11d3-830f-00104bed045e}
@@ -1031,7 +1008,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/uriloader/content-handler;1?type=text/html,{5d0ce354-df01-421a-83fb-7ead0990c24e}
 @mozilla.org/security/nsCertTree;1,{4ea60761-31d6-491d-9e34-4b53a26c416c}
 @mozilla.org/xul/xul-template-builder;1,{3d262d00-8b5a-11d2-8eb0-00805f29f370}
-@idm/mozilla_cc,{cee92972-f247-4e95-94ad-14e98feddfd4}
 @mozilla.org/inspector/flasher;1,{9286e71a-621a-4b91-851e-9984c1a2e81a}
 @mozilla.org/security/crypto;1,{929d9320-251e-11d4-8a7c-006008c844c3}
 @mozilla.org/fuel/application;1,{fe74cf80-aa2d-11db-abbd-0800200c9a66}
@@ -1133,7 +1109,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/network/protocol;1?name=wyciwyg,{e7509b46-2eb2-410a-9d7c-c3ce73284d01}
 @mozilla.org/intl/unicode/encoder;1?charset=x-mac-turkish,{7b8556b2-ec79-11d2-8aac-00600811a836}
 @mozilla.org/streamconv;1?from=uncompressed&to=deflate,{461cd5dd-73c6-47a4-8cc3-603b37d84a61}
-@Kaspersky.ru/KavVKInterceptor;1,{878e6fd4-eca5-428d-a1c1-4272ad7cd42a}
 @mozilla.org/svg/svg-document;1,{b7f44954-11d1-11b2-8c2e-c2feab4186bc}
 @mozilla.org/rdf/serializer;1?format=ntriples,{0a5cd734-eb65-4d14-88a0-9f0bb2aba206}
 @mozilla.org/intl/unicode/encoder;1?charset=windows-1252,{7b8556ac-ec79-11d2-8aac-00600811a836}
@@ -1442,7 +1417,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/rdf/datasource;1?name=extensions,{69bb8313-2d4f-45ec-97e0-d39da58ecce9}
 @mozilla.org/intl/unicode/decoder;1?charset=UTF-7,{77cfaaf1-1cf4-11d3-8aaf-00600811a836}
 @mozilla.org/browser/annotation-service;1,{5e8d4751-1852-434b-a992-2c6d2a25fa46}
-@Kaspersky.ru/KavLink;1,{cb9ef959-264b-4130-a136-fd575f169d47}
 @mozilla.org/intl/unicode/encoder;1?charset=x-ttf-cmsy,{e332db00-e076-11d3-b32f-004005a7a7e4}
 @mozilla.org/intl/unicode/decoder;1?charset=ISO-8859-11,{776588a6-86d5-47e2-b6b3-992810078202}
 @mozilla.org/intl/unicode/encoder;1?charset=x-imap4-modified-utf7,{b57f97c2-0d70-11d3-8aae-00600811a836}
@@ -1483,7 +1457,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/rdf/xml-parser;1,{a4048e94-1dd1-11b2-a676-8a06c086cc7d}
 @mozilla.org/nsTokenPasswordDialogs;1,{518e071f-1dd2-11b2-937e-c45f14def778}
 @mozilla.org/intl/unicode/decoder;1?charset=TIS-620,{66634f68-be19-42d0-a4ca-d1c21fa059b8}
-@Kaspersky.ru/KavLinkFilterSyncObj;1,{dad15533-2c69-4107-b090-e7d8f9235029}
 @mozilla.org/network/protocol;1?name=default,{bd6390c8-fbea-11d4-98f6-001083010e9b}
 @mozilla.org/toolkit/default-clh;1,{6ebc941a-f2ff-4d56-b3b6-f7d0b9d73344}
 @mozilla.org/intl/unicode/encoder;1?charset=x-mac-icelandic,{6394eebb-fc3d-11d2-b3b8-00805f8a6670}
@@ -1531,7 +1504,6 @@ rel:pluginGlue.js,1282691958000
 @mozilla.org/network/socket;2?type=socks4,{f7c9f5f4-4451-41c3-a28a-5ba2447fbace}
 @mozilla.org/network/buffered-output-stream;1,{9868b4ce-da08-11d3-8cda-0060b0fc14a3}
 @mozilla.org/intl/unicode/encoder;1?charset=IBM866,{ba6151aa-1dfa-11d3-b3bf-00805f8a6670}
-@idm/mozilla_cc_helper5;1,{d099c555-a0b1-4294-94f4-455f42060b1e}
 @mozilla.org/locale/win32-locale;1,{d92d57c3-ba1d-11d2-af0c-0060089fe59b}
 @mozilla.org/intl/unicode/encoder;1?charset=x-ttf-cmmi,{73bb7c12-dbab-4ae2-aecf-a0331dec916f}
 @mozilla.org/editor/editorspellchecker;1,{75656ad9-bd13-4c5d-939a-ec6351eea0cc}
@@ -1773,7 +1745,6 @@ command-line-handler,b-jsconsole,@mozilla.org/toolkit/console-clh;1
 command-line-handler,m-setdefaultbrowser,@mozilla.org/browser/default-browser-clh;1
 command-line-handler,m-browser,@mozilla.org/browser/clh;1
 command-line-handler,y-default,@mozilla.org/toolkit/default-clh;1
-content-policy,@idm/mozilla_cc,@idm/mozilla_cc
 content-policy,@mozilla.org/data-document-content-policy;1,@mozilla.org/data-document-content-policy;1
 content-policy,@mozilla.org/no-data-protocol-content-policy;1,@mozilla.org/no-data-protocol-content-policy;1
 content-policy,@mozilla.org/permissions/contentblocker;1,@mozilla.org/permissions/contentblocker;1
@@ -1806,7 +1777,6 @@ charset-detectors,ukprob,@mozilla.org/intl/charsetdetect;1?type=ukprob
 JavaScript global property,InstallTrigger,@mozilla.org/xpinstall/installtrigger;1
 JavaScript global property,external,@mozilla.org/sidebar;1
 JavaScript global property,sidebar,@mozilla.org/sidebar;1
-xpcom-startup,@idm/mozilla_cc,@idm/mozilla_cc
 command-line-validator,b-browser,@mozilla.org/browser/clh;1
 parser-service-category,Meta Charset Service,@mozilla.org/intl/metacharset;1
 profile-after-change,Extension Manager,@mozilla.org/extensions/manager;1

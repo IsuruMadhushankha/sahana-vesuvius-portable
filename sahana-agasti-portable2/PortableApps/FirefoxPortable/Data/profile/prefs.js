@@ -28,7 +28,7 @@ user_pref("browser.sessionstore.resume_session_once", true);
 user_pref("browser.shell.checkDefaultBrowser", false);
 user_pref("browser.startup.homepage", "http://localhost/sahana/www/");
 user_pref("browser.startup.homepage_override.mstone", "rv:1.9.2.9");
-user_pref("extensions.enabledItems", "firebug@software.joehewitt.com:1.5.4,linkfilter@kaspersky.ru:12.0.0.415,virtualKeyboard@kaspersky.ru:12.0.0.415,KavAntiBanner@Kaspersky.ru:12.0.0.415,mozilla_cc@internetdownloadmanager.com:7.3.16,{972ce4c6-7e08-4474-a285-3208198ce6fd}:3.6.9");
+user_pref("extensions.enabledItems", "firebug@software.joehewitt.com:1.5.4,{972ce4c6-7e08-4474-a285-3208198ce6fd}:3.6.9");
 user_pref("extensions.firebug.previousPlacement", 1);
 user_pref("extensions.lastAppVersion", "3.6.9");
 user_pref("extensions.update.notifyUser", false);
