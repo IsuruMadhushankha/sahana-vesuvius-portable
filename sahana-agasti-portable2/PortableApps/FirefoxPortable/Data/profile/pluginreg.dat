@@ -1,0 +1,65 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.11|$
+
+[PLUGINS]
+npnv3dvstreaming.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dvstreaming.dll|$
+7.17.12.6830|$
+1303394526000|1|1|$
+NVIDIA 3D Vision Streaming plugin for Mozilla browsers|$
+NVIDIA 3D VISION|$
+1
+0|application/mozilla-3DV-streaming-plugin|npnv3dvstreaming|rts|$
+npnv3dv.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dv.dll|$
+7.17.12.6830|$
+1303394526000|1|1|$
+NVIDIA 3D Vision plugin for Mozilla browsers|$
+NVIDIA 3D Vision|$
+3
+0|image/jps|JPEG-based stereo image|jps|$
+1|image/pns|PNG-based stereo image|pns|$
+2|image/mpo|Multi-Picture Format image|mpo|$
+NPSPWRAP.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPSPWRAP.DLL|$
+14.0.4730.1010|$
+1263063064000|1|1|$
+The plug-in allows you to open and edit files using Microsoft Office applications|$
+Microsoft Office 2010|$
+1
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+NPAUTHZ.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPAUTHZ.DLL|$
+14.0.4730.1010|$
+1263049938000|1|1|$
+Office Authorization plug-in for NPAPI browsers|$
+Microsoft Office 2010|$
+1
+0|application/x-msoffice14|14.0.4730.1010|*|$
+npFoxitReaderPlugin.dll|$
+C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\npFoxitReaderPlugin.dll|$
+2.1.1.720|$
+1311061124000|1|1|$
+Foxit Reader Plug-In For Firefox and Netscape|$
+Foxit Reader Plugin for Mozilla|$
+1
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+NPSWF32_11_6_602_180.dll|$
+C:\Windows\SysWOW64\Macromed\Flash\NPSWF32_11_6_602_180.dll|$
+11.6.602.180|$
+1364922197496|1|1|$
+Shockwave Flash 11.6 r602|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+npnul32.dll|$
+E:\Sahana\sahana-0.6.4-portable\PortableApps\FirefoxPortable\App\firefox\plugins\npnul32.dll|$
+1.0.0.15|$
+1282703486000|1|5|$
+Default Plug-in|$
+Mozilla Default Plug-in|$
+1
+0|*|Mozilla Default Plug-in|*|$
